@@ -1,0 +1,7 @@
+git
+matrix-auth
+maven-plugin
+blueocean
+job-dsl
+credentials-binding
+credentials
